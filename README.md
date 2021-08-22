@@ -15,5 +15,5 @@ For further details about the Exploratory data analysis, data pre-processing pha
 
 ## Sentiment Analysis of tweets - Kaggle InClass Competition
 Our group name is "The DY Duo" and we placed [14th place](https://www.kaggle.com/c/sentiment-analysis-of-tweets/leaderboard) in the public leaderboard with a score 0.67207
-and 12th place in the private leaderboard with a score of 0.66759 in the competition
+and 12th place in the private leaderboard with a score of 0.66759 in the competition.
 
