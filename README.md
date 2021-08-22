@@ -9,9 +9,9 @@ To Develop a Natural Language Processing (NLP) model that will allow to do polar
 * Yazhini K
 
 ## A breif description of the project
-This project has been done in participation with a [kaggle InClass competition](https://www.kaggle.com/c/sentiment-analysis-of-tweets). We have extracted the nature of the opinions to classify the given set of tweets based on their polarity as positive, negative or neutral. We have attempted to develop a number of skills such as – various techniques for pre-processing text, and for text vectorization using feature extraction. I have also compared the adequacy of various statistical models such as Naïve Bayes, Logistic Regression, Support Vector Machines for text classification.
+This project has been done in participation with a [Kaggle InClass competition](https://www.kaggle.com/c/sentiment-analysis-of-tweets). We have extracted the nature of the opinions to classify the given set of tweets based on their polarity as positive, negative or neutral. We have attempted to develop a number of skills such as – various techniques for pre-processing text, and for text vectorization using feature extraction. I have also compared the adequacy of various statistical models such as Naïve Bayes, Logistic Regression, Support Vector Machines for text classification.
 
-For further details about the Exploratory data analysis, data pre-processing phase, word-embedding techniques, various machine learning algorithms used and the results of the models, refer to the project report.
+For further details about the Exploratory data analysis, data pre-processing phase, word-embedding techniques, various machine learning algorithms used and the results of the models, refer to the [project report](https://github.com/DivyaGladys/Sentiment-Analysis-of-Tweets/blob/main/Capstone%20Project%20Report%20-The%20DY%20Duo.pdf).
 
 ## Sentiment Analysis of tweets - Kaggle InClass Competition
 Our group name is "The DY Duo" and we placed [14th place](https://www.kaggle.com/c/sentiment-analysis-of-tweets/leaderboard) in the public leaderboard with a score 0.67207
